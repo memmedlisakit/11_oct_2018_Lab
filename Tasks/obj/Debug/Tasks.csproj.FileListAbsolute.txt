@@ -1,0 +1,14 @@
+E:\ALL\my_works\P-503\Form_App\Tasks\Tasks\bin\Debug\Tasks.exe.config
+E:\ALL\my_works\P-503\Form_App\Tasks\Tasks\bin\Debug\Tasks.exe
+E:\ALL\my_works\P-503\Form_App\Tasks\Tasks\bin\Debug\Tasks.pdb
+E:\ALL\my_works\P-503\Form_App\Tasks\Tasks\obj\Debug\Tasks.csprojResolveAssemblyReference.cache
+E:\ALL\my_works\P-503\Form_App\Tasks\Tasks\obj\Debug\Tasks.Form1.resources
+E:\ALL\my_works\P-503\Form_App\Tasks\Tasks\obj\Debug\Tasks.Properties.Resources.resources
+E:\ALL\my_works\P-503\Form_App\Tasks\Tasks\obj\Debug\Tasks.csproj.GenerateResource.Cache
+E:\ALL\my_works\P-503\Form_App\Tasks\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+E:\ALL\my_works\P-503\Form_App\Tasks\Tasks\obj\Debug\Tasks.exe
+E:\ALL\my_works\P-503\Form_App\Tasks\Tasks\obj\Debug\Tasks.pdb
+E:\ALL\my_works\P-503\Form_App\Tasks\Tasks\bin\Debug\EntityFramework.dll
+E:\ALL\my_works\P-503\Form_App\Tasks\Tasks\bin\Debug\EntityFramework.SqlServer.dll
+E:\ALL\my_works\P-503\Form_App\Tasks\Tasks\bin\Debug\EntityFramework.xml
+E:\ALL\my_works\P-503\Form_App\Tasks\Tasks\bin\Debug\EntityFramework.SqlServer.xml
